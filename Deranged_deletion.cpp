@@ -23,7 +23,7 @@ int main()
         }
         if(is_sorted(arr.begin(),arr.end()))
         {
-            cout<<"No"<<endl;
+            cout<<"NO"<<endl;
             
         }
         
